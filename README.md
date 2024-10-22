@@ -1,17 +1,23 @@
 # Astral-sh UV
 
-Stop using 
-  pip 
-  pip-tools 
-  pipx 
-  poetry 
-  pyenv 
-  virtualenv
+# ✋ Stop Using
+>-  ### pip
+>-   ### pip-tools 
+>-   ### pipx 
+>-   ### poetry 
+>-   ### pyenv 
+>-   ### virtualenv
+>-   ### and more ......
 
-  Now, you can use a single tool to replace, them all.
+  ### You can now use a 👆 single tool to replace, them all
 
- It's as simple as you have, imagined.
 
- Let me guide you below, step by step.
+Why, should we do so ...
+>>-
 
+ It is as simple as you have, imagined
+
+ 
+
+ Let me guide you step by step
  
