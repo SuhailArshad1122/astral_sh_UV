@@ -8,8 +8,8 @@
 -   ### virtualenv
 -   ### and more ......
 
-### You can now use <span style="color: green; font-size: 1.5em;">UV</span>, a single tool  to replace them all
-### You can now use **_UV_**, a single tool  to replace them all
+### You can now use UV a single tool  to replace them all
+### You can now use **UV**, a single tool  to replace them all
 
 #### Why, should we do so ... 
 
