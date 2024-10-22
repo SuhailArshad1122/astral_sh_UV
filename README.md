@@ -8,8 +8,7 @@
 -   ### virtualenv
 -   ### and more ......
 
-### You can now use UV a single tool  to replace them all
-### You can now use **UV**, a single tool  to replace them all
+### You can now use 'UV' a single tool  to replace them all
 
 #### Why, should we do so ... 
 
