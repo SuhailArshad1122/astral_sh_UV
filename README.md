@@ -1,5 +1,5 @@
 # Astral-sh UV
-# 
+
 # ✋ Stop Using
 -  ### pip
 -   ### pip-tools 
