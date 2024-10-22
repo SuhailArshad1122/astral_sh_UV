@@ -29,3 +29,15 @@
 It is as simple to use as you have, imagined
 
 Let me guide you below, step by step
+
+- Installation:
+  -
+  - Windows:
+    - pip install uv
+    - powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+  - Linux
+    - curl -LsSf https://astral.sh/uv/install.sh | sh
+  - Mac:
+    - curl -LsSf https://astral.sh/uv/install.sh | sh
+
