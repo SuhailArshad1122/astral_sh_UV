@@ -1,4 +1,5 @@
-
+# Astral-sh UV
+# 
 # ✋ Stop Using
 -  ### pip
 -   ### pip-tools 
@@ -8,7 +9,8 @@
 -   ### virtualenv
 -   ### and more ......
 
-### You can now use 'UV' a single tool  to replace them all
+### You can now use 'UV', a single tool  to replace them all
+
 
 #### Why, should we do so ... 
 
@@ -26,4 +28,4 @@
 
 It is as simple to use as you have, imagined
 
-Let me guide you, below step by step
+Let me guide you below, step by step
