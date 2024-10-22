@@ -24,6 +24,7 @@
 - 💾 Disk-space efficient
 - ⏬ Installable without Rust or Python
 - 💻 Supports macOS, Linux, and Windows
+- 👌 UV is updated itself, if isntalled via standalone installer
 
 
 It is as simple to use as you have, imagined
