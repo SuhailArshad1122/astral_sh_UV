@@ -74,7 +74,8 @@ you must find below contents, in your IDE
 
 
 ## By default hello.py project has been created for you
-![initial folder structure](./hello.PNG)
-## In order to run this project
-## simply go to terminal and type `**c:\your_project_folder> uv run python hello.py`
-  - select 
+![hellp.py](./hello.PNG)
+## In order to run this project <br/>
+## Just go to terminal and type<br/> 
+**c:\your_project_folder>**`uv run python hello.py`
+![run hello.py](./hello.PNG)   
