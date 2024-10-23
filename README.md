@@ -45,11 +45,10 @@ Let me guide you below, step by step
 ### Now let's get in action:
 
 **c:\>** `pip install uv`
-
-c>uv help (if help is required)
-c>uv init your_project_name (create your project)
-c>cd your_project_name (get inside your project folder)
-c:\your_project_name>  (you are now inside your project folder)
+**c:\>** `uv help (if help is required)
+**c:\>** `uv init your_project_name (create your project)
+**c:\>** `cd your_project_name (get inside your project folder)
+**c:\your_project_name>**  (you are now inside your project folder)
 
 By default below file structure is created for you
 in side your project folder (in your case c:\your_project_name> )
