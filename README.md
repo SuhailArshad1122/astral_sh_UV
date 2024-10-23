@@ -51,7 +51,7 @@ Let me guide you below, step by step
 **c:\your_project_name>**  `(you are now inside your project folder)`<br/>
 
 By default below file structure is created for you<br/>
-in side your project folder (in your case c:\your_project_name> )<br/>
+inside your project folder (in your case c:\your_project_name> )<br/>
 
 ![folder contents](./folder_contents.PNG)
 
