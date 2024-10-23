@@ -78,7 +78,7 @@ Installed 4 packages in 118ms
 
 C:\your_project_name>
 
-Now open your project folder, into your favorite IDE
+Use your favorite IDE and open your project
 (I am using vs code)
 
 C:\your_project_name>code .
