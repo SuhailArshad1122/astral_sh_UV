@@ -44,14 +44,14 @@ Let me guide you below, step by step
 
 ### Now let's get in action:
 
-**c:\>** `pip install uv`
-**c:\>** `uv help (if help is required)
-**c:\>** `uv init your_project_name (create your project)
-**c:\>** `cd your_project_name (get inside your project folder)
-**c:\your_project_name>**  (you are now inside your project folder)
+**c:\>** `pip install uv`<br/>
+**c:\>** `uv help (if help is required)<br/>
+**c:\>** `uv init your_project_name (create your project)<br/>
+**c:\>** `cd your_project_name (get inside your project folder)<br/>
+**c:\your_project_name>**  (you are now inside your project folder)<br/>
 
-By default below file structure is created for you
-in side your project folder (in your case c:\your_project_name> )
+By default below file structure is created for you<br/>
+in side your project folder (in your case c:\your_project_name> )<br/>
 
 23-Oct-2024  08:03 am    <DIR>          .
 23-Oct-2024  08:03 am    <DIR>          ..
