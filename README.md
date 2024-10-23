@@ -53,30 +53,11 @@ Let me guide you below, step by step
 By default below file structure is created for you<br/>
 in side your project folder (in your case c:\your_project_name> )<br/>
 
-![initial folder structure](./folder_contents.PNG)
+![folder contents](./folder_contents.PNG)
 
-23-Oct-2024  08:03 am    <DIR>          .
-23-Oct-2024  08:03 am    <DIR>          ..
-23-Oct-2024  08:03 am               109 .gitignore
-23-Oct-2024  08:03 am                 5 .python-version
-23-Oct-2024  08:03 am                95 hello.py
-23-Oct-2024  08:03 am               163 pyproject.toml
-23-Oct-2024  08:03 am                 0 README.md
-               5 File(s)            372 bytes
-               2 Dir(s)  999,999,999,999 bytes free
+For the sake of an example add a python tool `radon` to your project
 
-For the sake of an example add a python tool 'radon' to your project
-
-C:\your_project_name>uv add radon
-Using CPython 3.12.5 interpreter at: C:\
-Creating virtual environment at: .venv
-Resolved 5 packages in 1.76s
-Prepared 4 packages in 949ms
-Installed 4 packages in 118ms
- + colorama==0.4.6
- + mando==0.7.1
- + radon==6.0.1
- + six==1.16.0
+![addind tool](./add_tool.PNG)
 
 C:\your_project_name>
 
