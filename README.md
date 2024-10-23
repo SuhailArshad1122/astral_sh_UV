@@ -55,8 +55,7 @@ Let me guide you below, step by step
 **c:\your_project_name>**         (you are now inside your project folder)<br/>
 
 By default below file structure is created for you<br/>
-inside your project folder (in your case c:\your_project_name> )<br/>
-
+<br/>
 ![folder contents](./folder_contents.PNG)
 
 For the sake of an example add a python tool `radon` to your project
