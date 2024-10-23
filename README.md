@@ -73,7 +73,8 @@ you must find below contents, in your IDE
 ![initial folder structure](./folder_structure.PNG)
 
 
-# By default hello.py project has been created
+## By default hello.py project has been created for you
+![initial folder structure](./hello.PNG)
 ## In order to run this project
 ## simply go to terminal and type `**c:\your_project_folder> uv run python hello.py`
   - select 
