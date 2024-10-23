@@ -80,3 +80,6 @@ you must find below contents, in your IDE
 **c:\your_project_folder>**`uv run python hello.py` <br/>
 <br/>
 ![run hello.py](./run.PNG)   
+
+<br/>
+💐 🌷 🌹 🥀 🌺🌸🌼🌻
