@@ -85,4 +85,4 @@ C:\your_project_name>code .
 
 you must find below contents, in your IDE
 
-![initial folder structure](./images/example.png)
+![initial folder structure](./folder_structure.PNG)
