@@ -78,4 +78,4 @@ you must find below contents, in your IDE
 ## In order to run this project <br/>
 ## Just go to terminal and type<br/> 
 **c:\your_project_folder>**`uv run python hello.py`
-![run hello.py](./hello.PNG)   
+![run hello.py](./run.PNG)   
