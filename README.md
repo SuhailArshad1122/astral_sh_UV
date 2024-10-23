@@ -57,6 +57,7 @@ inside your project folder (in your case c:\your_project_name> )<br/>
 
 For the sake of an example add a python tool `radon` to your project
 
+**c:\>**`uv add radon`<br/>
 ![addind tool](./add_tool.PNG)
 
 C:\your_project_name>
