@@ -44,7 +44,7 @@ Let me guide you below, step by step
 
 ### Now let's get in action:
 
-c>pip install uv
+c>pip install uv<br/>
 c>uv help (if help is required)
 c>uv init your_project_name (create your project)
 c>cd your_project_name (get inside your project folder)
