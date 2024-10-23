@@ -42,7 +42,7 @@ Let me guide you below, step by step
   - Mac:
     - curl -LsSf https://astral.sh/uv/install.sh | sh
 
-Now let's get in action:
+### Now let's get in action:
 
 c>pip install uv
 c>uv help (if help is required)
