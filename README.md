@@ -62,11 +62,9 @@ For the sake of an example add a python tool `radon` to your project
 
 **c:\>**`uv add radon`<br/>
 ![addind tool](./add_tool.PNG)
+<br/>
 
-C:\your_project_name>
-
-Use your favorite IDE and open your project
-(I am using vs code)
+Use your favorite IDE and open your project (I am using vs code)<br/>
 
 C:\your_project_name>code .
 
