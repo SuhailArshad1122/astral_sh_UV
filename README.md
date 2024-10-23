@@ -53,6 +53,8 @@ Let me guide you below, step by step
 By default below file structure is created for you<br/>
 in side your project folder (in your case c:\your_project_name> )<br/>
 
+![initial folder structure](./folder_contents.PNG)
+
 23-Oct-2024  08:03 am    <DIR>          .
 23-Oct-2024  08:03 am    <DIR>          ..
 23-Oct-2024  08:03 am               109 .gitignore
