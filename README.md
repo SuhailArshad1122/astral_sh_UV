@@ -77,5 +77,5 @@ you must find below contents, in your IDE
 ![hellp.py](./hello.PNG)
 ## In order to run this project <br/>
 ## Just go to terminal and type<br/> 
-**c:\your_project_folder>**`uv run python hello.py`
+**c:\your_project_folder>**`uv run python hello.py` <br/>
 ![run hello.py](./run.PNG)   
